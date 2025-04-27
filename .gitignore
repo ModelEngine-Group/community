@@ -1,0 +1,10 @@
+# IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Common
+target/
+build/
