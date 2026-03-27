@@ -37,7 +37,7 @@ ModelEngine 社区例会每月举行，相关会议信息全部存放在 `Discus
 
 - Maintainer
    - 张亚风[@yafengzhang2025](https://github.com/yafengzhang2025), [516730181@qq.com](mailto:516730181@qq.com)
-  - Committer
+- Committer
    - 阳鹏[@Dallas98](https://github.com/Dallas98), [990259227@qq.com](mailto:990259227@qq.com)
    - 贺思聪[@hhhhsc701](https://github.com/hhhhsc701), [1710496917@qq.com](mailto:1710496917@qq.com)
 
