@@ -31,3 +31,8 @@ ModelEngine 社区例会每月举行，相关会议信息全部存放在 `Discus
 - Committer
    - 刘滔[@liutao12138](https://github.com/liutao12138), [1043783381@qq.com](mailto:1043783381@qq.com)
    - 李京缘[@ljy65535](https://github.com/ljy65535), [863238635@qq.com](mailto:863238635@qq.com)
+   
+### Medical-Agents-hub
+
+- Maintainer
+   - 郑高启 @zgqhope, [zgqhope@163.com](mailto:zgqhope@163.com)
