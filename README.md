@@ -31,6 +31,15 @@ ModelEngine 社区例会每月举行，相关会议信息全部存放在 `Discus
 - Committer
    - 刘滔[@liutao12138](https://github.com/liutao12138), [1043783381@qq.com](mailto:1043783381@qq.com)
    - 李京缘[@ljy65535](https://github.com/ljy65535), [863238635@qq.com](mailto:863238635@qq.com)
+  
+### Flex：ai
+
+- Maintainer
+   - 杜朋伟@perrydu123, perrydu@126.com
+- Committer
+    - 李睿哲@yumemiso, richerli0225@foxmail.com
+    - 李子琦@Reggie1314, liziqi47@gmail.com
+    - 马冬冬@madd2014, madd2014@163.com
    
 ### Medical-Agents-hub
 
