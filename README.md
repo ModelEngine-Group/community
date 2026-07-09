@@ -28,9 +28,10 @@ ModelEngine 社区例会每月举行，相关会议信息全部存放在 `Discus
 
 - Maintainer
    - 陈双瑞[@Phinease](https://github.com/Phinease), [chenshuangrui@gmail.com](mailto:chenshuangrui@gmail.com)
+   - 万鸣晨 [@WMC001](https://github.com/WMC001)，[759659013@qq.com](mailto:759659013@qq.com)
 - Committer
-   - 刘滔[@liutao12138](https://github.com/liutao12138), [1043783381@qq.com](mailto:1043783381@qq.com)
-   - 李京缘[@ljy65535](https://github.com/ljy65535), [863238635@qq.com](mailto:863238635@qq.com)
+  - 徐雅琦[@xuyaqist](https://github.com/xuyaqist)
+  - 潘业宏[@panyehong](https://github.com/YehongPan)
   
 ### Flex：ai
 
